@@ -8,4 +8,4 @@ To submit a documentation update, update the markdown files within the `docs` fo
 
 To test your changes, you can create a fork of Opensearch-Build. Commiting and pushing changes to the docs folder of your fork's main branch will run the workflow and update the fork's Wiki page.
 
-Finally, create a pull request containg the changes. Adding a link to your fork's Wiki page within the pull request will help reviewers understand your changes.
+Finally, create a pull request containing the changes. Adding a link to your fork's Wiki page within the pull request will help reviewers understand your changes.
