@@ -1,5 +1,5 @@
 ### How is the Wiki Updated?
-This repository's [Github Wiki](https://github.com/opensearch-project/opensearch-build/wiki) utilizes the [github-wiki-action](https://github.com/Andrew-Chen-Wang/github-wiki-action) workflow. This workflow mirrors the [docs](https://github.com/opensearch-project/opensearch-build/tree/main/docs) folder within OpenSearch-Build onto the Wiki.
+This repository's [Github Wiki](https://github.com/opensearch-project/opensearch-build/wiki) utilizes the [github-wiki-action](https://github.com/Andrew-Chen-Wang/github-wiki-action) action via [publish-wiki.yml](./.github/workflows/publish-wiki.yml) workflow. This workflow mirrors the [docs](./docs) folder within opensearch-build onto the Wiki.
 
 With this workflow, OpenSearch-Build documentation can be organized within the Wiki tab, while maintaining the ability for contributors to submit reviewable documentation updates in the form of pull requests.
 
